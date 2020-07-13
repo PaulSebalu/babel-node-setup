@@ -8,6 +8,6 @@
 
 <br>
 
-## About Teamwork
+## About
 
 Use Es6 or later Js version features with Node js using this boilerplate without so much hassle
